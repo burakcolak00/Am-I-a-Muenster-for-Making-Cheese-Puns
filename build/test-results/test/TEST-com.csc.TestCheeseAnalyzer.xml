@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestCheeseAnalyzer" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-30T20:51:25.697Z" hostname="DESKTOP-OTITO7T" time="0.017">
+  <properties/>
+  <testcase name="testCountByMilkTreatmentType()" classname="com.csc.TestCheeseAnalyzer" time="0.012"/>
+  <testcase name="testCountOrganicHighMoisture()" classname="com.csc.TestCheeseAnalyzer" time="0.001"/>
+  <testcase name="testMostCommonMilkType()" classname="com.csc.TestCheeseAnalyzer" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
